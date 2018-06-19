@@ -1,6 +1,6 @@
 # Wind energy generation in Poland for the year 2016
-Simple presentation of the wind energy generation data availabe on the web page of PSE S.A. - the Polish national grid operator - [www.pse.pl](www.pse.pl). 
-"Information obtained from the site [www.pse.pl] (www.pse.pl), according to the status of the site on 18/06/2018, partially processed"
+Simple presentation of the wind energy generation data availabe on the web page of PSE S.A. - the Polish National Grid Operator / Polskie Sieci Elektronergetyczne. 
+"Information obtained from the site [www.pse.pl](www.pse.pl), according to the status of the site on 18/06/2018, partially processed"
 
 <br><h4><b>License</b></h4>
 The R code for the Shiny application is licensed under GNU General Public License v3.0.
