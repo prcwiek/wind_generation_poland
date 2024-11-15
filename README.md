@@ -11,11 +11,11 @@ according to the status of the site on 18/06/2018, partially processed”
 <b>License</b>
 </h4>
 
-The R code for the Shiny application is licensed under GNU General
-Public License v3.0. However if you want to use the gathered data set
-you have to inform every time about the source which is PSE S.A -
-Polskie Sieci Elektroenergetyczne - www.pse.pl. If you want to use the
-data set for commercial purposes, please aks directly PSE S.A.
+R code in this repository is licensed under GNU General Public License
+v3.0. However if you want to use the gathered data set you have to
+inform every time about the source which is PSE S.A - Polskie Sieci
+Elektroenergetyczne - www.pse.pl. If you want to use the data set for
+commercial purposes, please aks directly PSE S.A.
 
 <br>
 <h4>
