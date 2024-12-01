@@ -1,5 +1,5 @@
 
-# Wind energy generation in Poland for the year 2016
+# Wind energy generation in Poland
 
 Simple presentation of the wind energy generation data availabe on the
 web page of PSE S.A. - the Polish National Grid Operator / Polskie Sieci
