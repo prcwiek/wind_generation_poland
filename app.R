@@ -29,7 +29,8 @@ cards <- list(
 cards_daily <- list(
   card(
     full_screen = TRUE,
-    card_header <- "Daily wind generation (MW)",
+    #card_header <- "Daily wind generation (MW)"
+    card_header <- paste0("Daily wind generation (MW) on ", today_date),
     plotOutput("genPlot_daily")
   )
 )
@@ -319,7 +320,7 @@ server <- function(input, output, session) {
       ) +
       labs(
         x = ("Time"),
-        y = ("Wind and solar energy generation (MW)"),
+        y = ("Wind and solar energy generation (MW) "),
         position = "left",
       ) +
       theme_minimal() +
